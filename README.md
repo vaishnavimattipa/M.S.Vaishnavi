@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @vaishnavimattipa
 - 👀 I’m interested in Full Stack Webdevelopment
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Python Full Stack Web Development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me:-Through my linkedin id: M.S.Vaishnavi
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
 <!---
